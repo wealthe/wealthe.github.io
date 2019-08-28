@@ -1,15 +1,22 @@
-# 联系方式
 
-- 手机：13001498317
-- Email：sdysyhj@foxmail.com
-- QQ/微信号：1654143833/w_clcy
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>吴鑫</h1>
+      <p><b>2020届本科毕业生</b></p>
+      <p><b>石家庄铁道大学软件工程系</b></p>
+      <p><b>邮箱：sdysyhj@foxmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 # 个人信息
-
- - 吴鑫/男/1999 
- - 本科/石家庄铁道大学软件工程系 
- - 毕业时间：2020年
+ - 手机：13001498317
+ - Email：sdysyhj@foxmail.com
+ - QQ/微信号：1654143833/w_clcy
  - 技术博客：https://www.cnblogs.com/sdysyhj/
  - Github：https://github.com/wealthe
 
