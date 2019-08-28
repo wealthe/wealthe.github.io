@@ -8,7 +8,7 @@
       <p><b>邮箱：sdysyhj@foxmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%" alt="证件照">
     </td>
   </tr>
 </table>
