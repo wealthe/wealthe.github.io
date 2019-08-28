@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 联系方式
 
-You can use the [editor on GitHub](https://github.com/wealthe/wealthe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 手机：13001498317
+- Email：sdysyhj@foxmail.com
+- QQ/微信号：1654143833/w_clcy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - 吴鑫/男/1999 
+ - 本科/石家庄铁道大学软件工程系 
+ - 毕业时间：2020年
+ - 技术博客：https://www.cnblogs.com/sdysyhj/
+ - Github：https://github.com/wealthe
 
-```markdown
-Syntax highlighted code block
+ - 期望职位：java工程师，python工程师
+ - 期望薪资：税前月薪7k+，特别喜欢的公司可例外
 
-# Header 1
-## Header 2
-### Header 3
+  
+# 开源项目和作品
 
-- Bulleted
-- List
+## 开源项目
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 技术文章
+    
+    
+# 技能清单
 
-[Link](url) and ![Image](src)
-```
+以下均为我熟练使用的技能
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wealthe/wealthe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Web开发：PHP
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Git
+      
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+      
