@@ -35,10 +35,10 @@
 # 技能清单
 
 以下均为我熟练使用的技能
-
-- Web开发：PHP
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Git
+ - 编程语言：java/c++
+ - Web开发：PHP
+ - 数据库相关：MySQL/Sqlserver/SQLite
+ - 版本管理、文档和自动化部署工具：Git
       
 ---      
 # 致谢
